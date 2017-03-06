@@ -1,17 +1,3 @@
-name="Kodi 17.0 RC3 arm (android 5.x e superior)"
-url="https://cld.pt/dl/download/b038d6b9-82dc-4f46-9d0d-0b41c392f7db/kodi-17.0-Krypton_rc3-armeabi-v7a.apk"
-icon="http://gaiabuilds.esy.es/repo/img/GBTech_APK.png"
-fanart="http://gaiabuilds.esy.es/repo/img/fanart.jpg"
-adult="No"
-description="Kodi 17.0 Release Candidate 3 processadores arm"
-
-name="Kodi 17.0 RC3 x86 (android 5.x e superior)"
-url="https://cld.pt/dl/download/f0e8d9c9-8efe-4ff9-8067-edf073c36af5/kodi-17.0-Krypton_rc3-x86.apk"
-icon="http://gaiabuilds.esy.es/repo/img/GBTech_APK.png"
-fanart="http://gaiabuilds.esy.es/repo/img/fanart.jpg"
-adult="No"
-description="Kodi 17.0 Release Candidate 3 processadores Intel (x86)"
-
 name="Kodi 16.1 x86"
 url="https://cld.pt/dl/download/74163a83-6732-475a-8095-70cb52e5e96a/kodi-16.1-Jarvis-x86.apk"
 icon="http://gaiabuilds.esy.es/repo/img/GBTech_APK.png"
