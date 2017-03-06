@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gbtech" name="[COLOR dodgerblue]GBTech[/COLOR] Repo" version="0.1.7" provider-name="GaiaBuildsTech">
+	<extension point="xbmc.addon.repository" name="GBTech Repo">
+		<info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>GaiaBuildsTech Repository</summary>
+		<description>Home of the GaiaBuildsTech Wizard</description>
+		<platform>all</platform>
+	</extension>
+</addon>
