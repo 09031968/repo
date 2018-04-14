@@ -1,6 +1,6 @@
-name="GBTech Build K17"
+name="GBTech Dragon X K17"
 version="1.0.0"
-url="https://cld.pt/dl/download/a46faff9-7fad-4197-b105-691078f554ac/Xenoni.zip"
+url="https://cld.pt/dl/download/22d81922-625e-454f-97e8-84d4c2ae02b5/DragonX_V2.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
